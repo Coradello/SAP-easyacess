@@ -8,4 +8,4 @@ The manager is a head of enterprise.
 
 Starting.... What is ERP ?
 
-I ussualy say ERP is a essence of enterprise how for example the HR Human resources is where the employees are hire, and the FI Financial is where you can manage the cashflow and you pay the wage of employees in ERP you have everything that you use day to day. 
+I ussualy say ERP is a essence of enterprise how for example the HR Human resources is where the employees are hire, and the FI Financial is where you can manage the cashflow and you pay the wage of employees in ERP you have everything that you use day to day. So the ERP (Enterprise Resource Planning) is a software that you can manage your enterprise, instead of you use a paper you use a laptop.

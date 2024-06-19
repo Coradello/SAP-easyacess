@@ -4,3 +4,4 @@ Everybody need of systems of ERP(enterprise resource planning) in our daily live
 
 The manager is a head of enterprise.
 
+[[https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat.png|alt=octocat]]

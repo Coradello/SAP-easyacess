@@ -4,4 +4,4 @@ Everybody need of systems of ERP(enterprise resource planning) in our daily live
 
 The manager is a head of enterprise.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fempresa%2Fsap%2F&psig=AOvVaw2YZ9bOgBf3hXEOfTD1cCJw&ust=1718898840686000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDGjKmD6IYDFQAAAAAdAAAAABAI)
+![alt text](https://pt.wikipedia.org/wiki/Ficheiro:SAP_2011_logo.svg)

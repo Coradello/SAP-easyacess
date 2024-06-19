@@ -3,5 +3,3 @@ The SAP is a great tool in the business world , you can to make the management o
 Everybody need of systems of ERP(enterprise resource planning) in our daily lives.
 
 The manager is a head of enterprise.
-
-[[https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat.png|alt=octocat]]
